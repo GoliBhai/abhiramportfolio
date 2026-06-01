@@ -13,27 +13,27 @@ export default function Home() {
       <Navbar />
 
       <main className="min-h-screen bg-[#0a192f] text-[#ccd6f6]">
-        <div className="max-w-6xl mx-auto px-6">
-          <section className="min-h-screen flex flex-col justify-center">
+        <div className="max-w-6xl mx-auto px-4 md:px-6">
+          <section className="min-h-screen flex flex-col justify-center py-20 md:py-0">
             <p className="text-[#64ffda] mb-4">
               Hi, I'm
             </p>
 
-            <h1 className="text-7xl font-bold">
+            <h1 className="text-4xl md:text-7xl font-bold">
               Sai Nishchal
             </h1>
 
-            <h3 className="text-5xl text-slate-400 mt-4">
+            <h3 className="text-xl md:text-5xl text-slate-400 mt-4">
               Cloud Computing • AI Systems • Full-Stack Development
             </h3>
 
-            <p className="max-w-xl mt-8 text-slate-400">
+            <p className="max-w-xl mt-8 text-slate-400 text-sm md:text-base">
               Master's student in Computer Science with professional
               experience in Google Cloud Platform, passionate about developing AI-driven
               applications and scalable web solutions.
             </p>
 
-            <div className="mt-10">
+            <div className="mt-10 flex justify-center md:justify-start">
               <button
                 onClick={() => {
                   const link = document.createElement("a");
