@@ -37,7 +37,7 @@ export default function Home() {
               <button
                 onClick={() => {
                   const link = document.createElement("a");
-                  link.href = "/resume.pdf";
+                  link.href = "/CVSainishchal.pdf";
                   link.download = "Sai_Nishchal_Gamini.pdf";
                   link.click();
                 }}

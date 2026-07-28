@@ -31,7 +31,7 @@ export default function Contact() {
           {/* Links */}
           <div className="mt-8 flex justify-center gap-6 text-slate-400">
             <a
-              href="https://github.com/YOUR_GITHUB"
+              href="https://github.com/GoliBhai"
               target="_blank"
               className="hover:text-[#64ffda] transition"
             >
@@ -39,7 +39,7 @@ export default function Contact() {
             </a>
   
             <a
-              href="https://linkedin.com/in/YOUR_LINKEDIN"
+              href="www.linkedin.com/in/sai-nishchal-gamini-538482172"
               target="_blank"
               className="hover:text-[#64ffda] transition"
             >

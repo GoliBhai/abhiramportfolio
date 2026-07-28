@@ -20,6 +20,24 @@ export default function Projects() {
       impact: ["100% accuracy", "XAI interpretability", "Dockerized training"],
     },
     {
+      title: "Community Interaction Platform (Full-Stack Web Application)",
+      description:
+        "Developed a full-stack community platform featuring user authentication, content sharing, and responsive interfaces. Built reusable React components, integrated RESTful APIs with a Node.js backend, and implemented modular, maintainable software architecture using TypeScript and MongoDB.",
+      tech: [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "REST API",
+        "Git",
+      ],
+      impact: [
+        "Responsive UI",
+        "Reusable components",
+        "Modular architecture",
+      ],
+    },
+    {
       title: "Persistent Memory Systems Analysis",
       description:
         "Analyzed 261 research papers to identify performance trends in persistent memory systems. Built structured benchmarking framework and visualization pipeline for comparative analysis.",
