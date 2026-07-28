@@ -38,6 +38,25 @@ export default function Projects() {
       ],
     },
     {
+      title: "Full-Stack Ticket Booking Application",
+      description:
+        "Developed a full-stack ticket booking system with a React and TypeScript frontend integrated with Java Spring Boot RESTful APIs. Implemented backend services for authentication, booking management, and transaction processing while designing a relational SQL database with modular and maintainable architecture.",
+      tech: [
+        "React",
+        "TypeScript",
+        "Java",
+        "Spring Boot",
+        "REST API",
+        "SQL",
+        "Maven",
+      ],
+      impact: [
+        "Full-stack booking workflow",
+        "Backend service integration",
+        "Relational database design",
+      ],
+    },
+    {
       title: "Persistent Memory Systems Analysis",
       description:
         "Analyzed 261 research papers to identify performance trends in persistent memory systems. Built structured benchmarking framework and visualization pipeline for comparative analysis.",
