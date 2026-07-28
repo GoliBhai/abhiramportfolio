@@ -39,7 +39,7 @@ export default function Contact() {
             </a>
   
             <a
-              href="www.linkedin.com/in/sai-nishchal-gamini-538482172"
+              href="https://www.linkedin.com/in/sai-nishchal-gamini-538482172"
               target="_blank"
               className="hover:text-[#64ffda] transition"
             >
