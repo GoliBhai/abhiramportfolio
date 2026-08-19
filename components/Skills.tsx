@@ -18,6 +18,7 @@ export default function Skills() {
           "LLMs",
           "Embeddings",
           "NLP",
+          "Agentic AI",
           "XAI",
           "PyTorch",
           "Transformers",
@@ -53,6 +54,7 @@ export default function Skills() {
         title: "Cloud & DevOps",
         skills: [
           "Google Cloud: Monitoring, Logging, Migration, IAM",
+          "AWS (Basics)",
           "Kubernetes",
           "Docker",
           "BigQuery",

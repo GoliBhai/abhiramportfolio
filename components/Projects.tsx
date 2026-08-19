@@ -13,6 +13,24 @@ export default function Projects() {
       impact: ["99% retrieval accuracy", "Graph-based reranking", "Multimodal AI"],
     },
     {
+      title: "AI-Powered Technical Documentation Compliance System",
+      description:
+        "Built an offline AI-powered document intelligence system using LLMs, Agentic AI, and RAG to automate technical documentation analysis and compliance validation. Designed workflows for planning, retrieval, rule validation, and explainable reasoning, integrating PDF/OCR processing, transformer-based NLP, embeddings, and vector databases to generate evidence-based audit reports.",
+      tech: [
+        "Python",
+        "LLMs",
+        "Agentic AI",
+        "RAG",
+        "NLP",
+        "Vector Databases",
+      ],
+      impact: [
+        "Automated compliance validation",
+        "Explainable AI workflows",
+        "Evidence-based audit reports",
+      ],
+    },
+    {
       title: "Explainable AI (VAE + CNN Architecture)",
       description:
         "Built a disentangled Variational Autoencoder with CNN backbone and integrated multiple XAI techniques including Grad-CAM and latent space analysis. Achieved 100% classification accuracy in evaluation.",
