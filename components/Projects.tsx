@@ -75,6 +75,23 @@ export default function Projects() {
       ],
     },
     {
+      title: "Traffic Management System",
+      description:
+        "Developed a modular C++ traffic management system using object-oriented design with TrafficLight and TrafficController classes. Implemented traffic-control logic, state transitions, and emergency overrides to simulate dynamic traffic flow and density-based behavior.",
+      tech: [
+       "C++",
+       "Object-Oriented Programming",
+       "Data Structures",
+       "Algorithms",
+       "Standard C++ Libraries",
+      ],
+      impact: [
+       "Modular traffic-control architecture",
+       "State-based traffic flow simulation",
+       "Emergency and density-based control",
+      ],
+    },
+    {
       title: "Persistent Memory Systems Analysis",
       description:
         "Analyzed 261 research papers to identify performance trends in persistent memory systems. Built structured benchmarking framework and visualization pipeline for comparative analysis.",
